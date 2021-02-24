@@ -1,4 +1,4 @@
-# ESEBot
+# UESTC-ESE-night-check-bot
  电子科技大学-电子科学与工程学院-研究生自动晚点名QQ机器人
 
 ##### 测试群QQ：[945667419](https://jq.qq.com/?_wv=1027&k=b1Jl5mt9)
